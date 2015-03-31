@@ -1,8 +1,6 @@
-Frisbee Golf Championships Game
-
-This was a program that I wrote for the final project of my intro CS class. It is a frisbee golf game with 3 levels of difficulty and a very unintelligent computer player, which was an optional part of the assignment.
-
 Last motified: 11/23/13
+
+Frisbee Golf Championships Game
 
 Welcome to the Frisbee Golf Championship Game. You are a talented Frisbee
 Golfer facing the reigning world Frisbee Golf Champion (Beau Kittridge). Beau is the
